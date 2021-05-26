@@ -1,7 +1,7 @@
 {
   "author": "Hawks",
   "scripts": {
-    "test": "echo K2S"
+    "test": "echo K2S Zzz"
   },
   "name": "kate-sleep",
   "description": "a simple package to help kate sleep",
