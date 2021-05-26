@@ -1,6 +1,6 @@
-var sleep = {};
+const kate = {
+	sleep: require('./lib/sleep'),
+	wake: require('./lib/wake'),
+};
 
-sleep.kate require("./lib/sleep");
-sleep.wakeup = require("./lib/wake");
-
-module.exports = kate-sleep;
+module.exports = kate;
