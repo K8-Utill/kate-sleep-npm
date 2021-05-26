@@ -1,0 +1,23 @@
+{
+  "author": "Hawks",
+  "scripts": {
+    "test": "echo K2S"
+  },
+  "name": "kate-sleep",
+  "description": "a simple package to help kate sleep",
+  "version": "0.0.1",
+  "homepage": "http://github.com/Official-Hawks/kate-sleep-npm",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Official-Hawks/kate-sleep-npm.git"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "dependencies": {
+    "@powercord/staff": "1.x",
+    "sleep": "1.x"
+  },
+  "main": "index.js"
+}
