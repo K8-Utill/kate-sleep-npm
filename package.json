@@ -16,7 +16,6 @@
     "node": ">=4.0.0"
   },
   "dependencies": {
-    "@powercord/staff": "1.x",
     "sleep": "1.x"
   },
   "main": "index.js"
