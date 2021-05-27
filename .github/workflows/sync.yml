@@ -1,7 +1,6 @@
 name: Sync package.json with repository info
-on:
-  push:
-    branches: [master]
+on: push
+  
 jobs:
   build:
     runs-on: ubuntu-latest
