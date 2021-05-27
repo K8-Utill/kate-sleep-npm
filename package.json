@@ -5,7 +5,7 @@
   },
   "name": "kate-sleep",
   "description": "a simple package to help kate sleep",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "homepage": "http://github.com/Official-Hawks/kate-sleep-npm",
   "license": "MIT",
   "repository": {
