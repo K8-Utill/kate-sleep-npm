@@ -6,6 +6,6 @@ Zzz
 For it to work install in the powercord dir
 ## Status
 [![.github/workflows/npm-publish2.yml](https://github.com/Official-Hawks/kate-sleep-npm/actions/workflows/npm-publish2.yml/badge.svg)](https://github.com/Official-Hawks/kate-sleep-npm/actions/workflows/npm-publish2.yml)
-[![Sync package.json with repository info](https://github.com/Official-Hawks/kate-sleep-npm/actions/workflows/sync.yml/badge.svg)](https://github.com/Official-Hawks/kate-sleep-npm/actions/workflows/sync.yml) 
+[![Sync package.json with repository info]
 ## Test it
 [Click Me](https://npm.runkit.com/kate-sleep)
