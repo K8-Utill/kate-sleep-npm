@@ -9,3 +9,5 @@ For it to work install in the powercord dir
 [![Sync package.json with repository info]
 ## Test it
 [Click Me](https://npm.runkit.com/kate-sleep)
+## PR
+If you do a pr please update the package version ty!
