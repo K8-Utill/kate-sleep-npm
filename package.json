@@ -1,29 +1,29 @@
 {
-	"author": "Hawks",
-	"scripts": {
-		"test": "echo K2S Zzz"
-	},
-	"name": "kate-sleep",
-	"description": "Help Kate Sleep",
-	"version": "0.0.5",
-	"homepage": "https://k2s.hawkscord.dev",
-	"license": "MIT",
-	"repository": {
-		"type": "git",
-		"url": "git://github.com/Official-Hawks/kate-sleep-npm.git"
-	},
-	"engines": {
-		"node": ">=4.0.0"
-	},
-	"dependencies": {
-		"sleep": "1.x"
-	},
-	"main": "index.js",
-	"keywords": [
-		"npm",
-		"fun",
-		"kate",
-		"sleep",
-		"powercord"
-	]
+  "author": "Hawks",
+  "scripts": {
+    "test": "echo K2S Zzz"
+  },
+  "name": "kate-sleep",
+  "description": "Help Kate Sleep",
+  "version": "0.0.4",
+  "homepage": "https://k2s.hawkscord.dev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Official-Hawks/kate-sleep-npm.git"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "dependencies": {
+    "sleep": "1.x"
+  },
+  "main": "index.js",
+  "keywords": [
+    "npm",
+    "fun",
+    "kate",
+    "sleep",
+    "powercord"
+  ]
 }
