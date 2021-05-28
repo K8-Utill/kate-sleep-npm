@@ -22,7 +22,7 @@ kate.sleep();
 
 In the 1 paramter that is a Object can be composed of 2 values.
 
-`stuffedAnimals` a Array or String, for now we offer 1 stuffed animal which is `Baby Fox` but you can use your own stuffed animals.
+`stuffedAnimals` a Array or String, we offer 5 stuffed animal which is `Baby Fox, Moose, Frog, Dog, Wolf` but you can use your own stuffed animals.
 
 `cozyBed` is a Boolean, this will determine if Kate sleeps in a cozy bed or not.
 
@@ -31,7 +31,7 @@ In the 1 paramter that is a Object can be composed of 2 values.
 ```js
 const kate = require('kate-sleep');
 
-kate.sleep({ stuffedAnimals: 'Baby Fox', cozyBed: true });
+kate.sleep({ stuffedAnimals: ['Baby Fox', 'Dog'], cozyBed: true });
 ```
 
 ### Wake
