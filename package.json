@@ -4,9 +4,9 @@
     "test": "echo K2S Zzz"
   },
   "name": "kate-sleep",
-  "description": "a simple package to help kate sleep",
+  "description": "Help Kate Sleep",
   "version": "0.0.4",
-  "homepage": "http://github.com/Official-Hawks/kate-sleep-npm",
+  "homepage": "https://k2s.hawkscord.dev",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -18,5 +18,12 @@
   "dependencies": {
     "sleep": "1.x"
   },
-  "main": "index.js"
+  "main": "index.js",
+  "keywords": [
+    "npm",
+    "fun",
+    "kate",
+    "sleep",
+    "powercord"
+  ]
 }
