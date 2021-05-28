@@ -13,5 +13,3 @@ For it to work install in the powercord dir
 If you do a pr please update the package version ty!
 
 
-
-test
