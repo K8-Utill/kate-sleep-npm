@@ -10,5 +10,3 @@ For it to work install in the powercord dir
 [Click Me](https://npm.runkit.com/kate-sleep)
 ## PR
 If you do a pr please update the package version ty!
-
-
