@@ -6,6 +6,8 @@ const kate = {
 	wake: require('./lib/wake'),
 	meth: require('./lib/meth'),
 	sleepover: require('./lib/sleepover'),
+	say: require('./lib/say'),
+	color: require('./lib/color'),
 	get isSleeping() {
 		return global.isSleeping;
 	},
