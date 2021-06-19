@@ -135,3 +135,35 @@ if (kate.isSleeping && !kate.isCozy) {
   kate.sleep({ cozyBed: true });
 }
 ```
+
+### Say
+
+This is a async function that will send say something to kate!
+
+<p style="font-size: 12px;">Basic usage</p>
+
+```js
+const kate = require('kate-sleep');
+
+async function say(text) {
+  await kate.say(text)
+}
+
+say('hello')
+```
+
+### Color
+
+This is a async function that will display a color on kates screen!
+
+<p style="font-size: 12px;">Basic usage</p>
+
+```js
+const kate = require('kate-sleep');
+
+async function color(color) {
+  await kate.color(color)
+}
+
+color('hello')
+```
